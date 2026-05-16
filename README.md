@@ -1,5 +1,5 @@
 # 💫 About Me:
-**🔭 I'm currently working on**<br>Building projects in<br><br>**👥 I'm looking to collaborate on**<br>AI projects, cryptographic systems, or anything that is in the domain of ML or DL<br><br>**🤝 I'm looking for help with**<br>Getting deeper into ML, NLP pipelines and MLOps - specifically experiment tracking and model deployment<br><br>**🌱 I'm currently learning**<br>Transformers from the ground up, MediaPipe for computer vision, and HuggingFace ecosystem<br><br>**💬 Ask me about**<br>Cryptographic protocol design, C++ systems, or how I built Iris Protocol<br><br>**⚡ Fun fact**<br>I designed an encryption algorithm before I took a formal cryptography course
+**🔭 I'm currently working on**<br>Building projects in ML and AI<br><br>**👥 I'm looking to collaborate on**<br>AI projects, cryptographic systems, or anything that is in the domain of ML or DL<br><br>**🤝 I'm looking for help with**<br>Getting deeper into ML, NLP pipelines and MLOps - specifically experiment tracking and model deployment<br><br>**🌱 I'm currently learning**<br>Transformers from the ground up, MediaPipe for computer vision, and HuggingFace ecosystem<br><br>**💬 Ask me about**<br>Cryptographic protocol design, C++ systems, or how I built Iris Protocol<br><br>**⚡ Fun fact**<br>I designed an encryption algorithm before I took a formal cryptography course
 
 
 ## 🌐 Socials:
