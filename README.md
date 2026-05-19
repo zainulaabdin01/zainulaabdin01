@@ -1,5 +1,6 @@
 # 💫 About Me:
-**🔭 I'm currently working on**<br>Building projects in ML and AI<br><br>**👥 I'm looking to collaborate on**<br>AI projects, cryptographic systems, or anything that is in the domain of ML or DL<br><br>**🤝 I'm looking for help with**<br>Getting deeper into ML, NLP pipelines and MLOps - specifically experiment tracking and model deployment<br><br>**🌱 I'm currently learning**<br>Transformers from the ground up, MediaPipe for computer vision, and HuggingFace ecosystem<br><br>**💬 Ask me about**<br>Cryptographic protocol design, C++ systems, or how I built Iris Protocol<br><br>**⚡ Fun fact**<br>I designed an encryption algorithm before I took a formal cryptography course
+I'm a Computer Science student at FAST NUCES Islamabad who builds things out of curiosity first and necessity second. Right now I'm working on projects across ML, computer vision, and AI security — I like problems that sit at the intersection of multiple fields, especially where security thinking meets AI. I'm always looking to collaborate on anything in that space, whether it's cryptographic systems, adversarial ML, or something I haven't thought of yet. Currently going deeper into transformers, the HuggingFace ecosystem, and MLOps — specifically how models go from experiment to production. Ask me about how I built Iris Protocol, a symmetric cipher I designed from scratch before ever taking a formal cryptography course — or anything about C++ systems and data structures. Always open to interesting problems.
+
 
 
 ## 🌐 Socials:
